@@ -6,5 +6,4 @@
 	string
 	<p>abcdefghijklmnopqrstuvwxyz</p>
 	<span>asdfasdfgaigdfogaeu</span>
-	<a href="#aaa">
 </html>
